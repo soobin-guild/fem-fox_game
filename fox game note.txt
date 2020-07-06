@@ -1,0 +1,6 @@
+npm i -D parcel-bundler
+i = install
+-D = Developer tool (not deployed with app)
+
+
+html:5 --> init html 5 file
