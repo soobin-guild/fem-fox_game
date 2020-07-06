@@ -8,4 +8,7 @@ html:5 --> init html 5 file
 package.json --> "scripts:" will run scripts on npm (npm run test)
 
 code style:
-      formatting: prettier
+      formatting: prettier, EditorConfig(how code looks)
+      code style: eslint (how code works)
+
+test: jest
