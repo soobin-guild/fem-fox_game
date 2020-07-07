@@ -1,0 +1,7 @@
+{
+      "salesforcedx-vscode-lightning.activationMode": "off",
+      "visualforce.validate.styles": false,
+      "visualforce.format.enable": false,
+      "visualforce.suggest.html5": false,
+      "visualforce.validate.scripts": false
+}
