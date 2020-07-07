@@ -24,3 +24,12 @@ Init project
 closure = function within function
 
 debugging ESLint
+  extension installed
+  cmd+, to see setting
+  .eslintrc.json is malformed
+  view > output : view error
+
+State machine
+  FSM (finite state machine): define various states of what you expect your app to look like. derivative state = derived from the main state
+  XState doc (for reference)
+
