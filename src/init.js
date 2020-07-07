@@ -1,3 +1,5 @@
+import gameState from "./gameState";
+
 const TICK_RATE = 3000;
 
 function tick() {

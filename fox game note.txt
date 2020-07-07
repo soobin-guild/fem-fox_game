@@ -15,4 +15,12 @@ test: jest
 
 Organize code
   deletbility
+    = mouduler
   folder organization
+
+Init project
+  entry point for browser to load (init.js)
+
+closure = function within function
+
+debugging ESLint
