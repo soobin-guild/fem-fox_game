@@ -38,6 +38,7 @@ body {
   height: 577px;
   top: 62px;
   left: 67px;
+  position: absolute;
 }
 
 .game.night {
