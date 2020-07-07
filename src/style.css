@@ -88,6 +88,10 @@ body {
   right: 0;
   background-color: blueviolet;
   color: white;
+  padding: 24px;
+  font-size: 17px;
+  font-weight: bold;
+  border-radius: 16px;
 }
 
 .modal:empty {
