@@ -12,3 +12,7 @@ code style:
       code style: eslint (how code works)
 
 test: jest
+
+Organize code
+  deletbility
+  folder organization
