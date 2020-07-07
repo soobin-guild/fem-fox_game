@@ -7,5 +7,5 @@ export const modScene = function modScene(state) {
 };
 
 export const togglePoopBag = function togglePoopBag(show) {
-  document.querySelector.apply(".poop-bag").classList.toggle("hidden", !show);
+  document.querySelector(".poop-bag").classList.toggle("hidden", !show);
 };
